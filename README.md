@@ -29,7 +29,7 @@ I am a Frontend Developer from Bangladesh 🎉🎉🎉. I specialize in `React.j
 
 <br /><br />
 
-**Feel free to contact me at hello.tanvir.official@gmail.com.\
+
 Thanks for visiting 😉**
 
 **Isat**
