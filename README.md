@@ -4,7 +4,7 @@
 
 <img src="https://github.com/IsaT10/IsaT10/blob/main/background.png" >
 
-I am a Frontend Developer from Bangladesh 🎉🎉🎉. I specialize in `React.js`, `Node.js`, `Express`, and `MonogoDB`. With extensive knowledge in `frontend` as well as in `backend` development, I develop an application in a way that can be maintained and scaled with less effort 💥💥.
+I'm a Frontend Developer based in Bangladesh 🎉, specializing in `React.js` with a strong focus on intricacies of frontend development. Additionally, I have mid-level proficiency in `Node.js`, `Express`, and `MonogoDB`, enabling me to create applications that seamlessly blend user-friendly interfaces with robust backend functionality. My goal is to develop scalable and maintainable solutions, emphasizing the harmonious balance between design and functionality.
 
 <h2>📌 Find me on social sites </h2>
 
@@ -20,7 +20,7 @@ I am a Frontend Developer from Bangladesh 🎉🎉🎉. I specialize in `React.j
 <h2>➡️ Current Stats </h2>
 
 <p align="center" >
-<img align="center" width='80%' src="https://github-readme-streak-stats.herokuapp.com?user=IsaT10&theme=dark&hide_border=true&border_radius=1.5&ring=00BABA&background=134%2C0D1117%2C000000&border=000000&stroke=000000&fire=00BABA&currStreakNum=00BABA&currStreakLabel=00BABA&excludeDaysLabel=EB5454"/>
+<img align="center" width='80%' src="https://github-readme-streak-stats.herokuapp.com?user=IsaT10&theme=dark&hide_border=true&border_radius=1.5&ring=0366D6&background=134%2C0D1117%2C0D1117&border=000000&stroke=000000&fire=0366D6&currStreakNum=0366D6&currStreakLabel=0366D6&excludeDaysLabel=EB5454"/>
 </p>
 
 ## 💻Technologies I've Worked With 🔧
