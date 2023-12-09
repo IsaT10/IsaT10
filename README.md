@@ -32,12 +32,13 @@ I am a Frontend Developer from Bangladesh 🎉🎉🎉. I specialize in `React.j
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaT10&layout=compact&&bg_color=000000&hide_border=true&title_color=00BABA&text_color=ffffff)](https://github.com/IsaT10) -->
 
 <p align="center">
-<img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IsaT10&theme=github_dark"/>
+<img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IsaT10&theme=github_dark"/>
 </p>
 
-<p>
-<img width='45%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaT10&layout=compact&&bg_color=0D1117&hide_border=false&title_color=00BABA&text_color=ffffff"/>
-<img width='45%' src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IsaT10&theme=github_dark"/>
+<!-- <img width='45%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaT10&layout=compact&&bg_color=0D1117&hide_border=false&title_color=00BABA&text_color=ffffff"/> -->
+<p align="center">
+<img width='50%' src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IsaT10&theme=github_dark&exclude=javascript,css,html,scss"/>
+<img width='50%' src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IsaT10&theme=github_dark"/>
 </p>
 <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IsaT10&theme=transparent"/> -->
 
