@@ -15,15 +15,29 @@ I'm a Frontend Developer, specializing in `React.js` with a strong focus on comp
 <!-- 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=IsaT10&theme=dark&hide_border=true&border_radius=1.5&ring=00BABA&background=134%2C000000%2C000000&border=000000&stroke=000000&fire=00BABA&currStreakNum=00BABA&currStreakLabel=00BABA&excludeDaysLabel=EB5454)](https://git.io/streak-stats) -->
 
-<!-- <h2> Current Overview </h2> -->
+<h2> Current Overview </h2>
+
+<br />
+
+<p>⚙️ I'm exploring - Next.js and MongoDB</p>
+<p>🔦 I'm looking - For colaborating on any unique projects</p>
+<p>👨‍💻 I'm trying - Develop my skill</p>
+
+<br />
 
 <h2>➡️ Current Stats </h2>
+
+<br />
 
 <p align="center" >
 <img align="center" width='80%' src="https://github-readme-streak-stats.herokuapp.com?user=IsaT10&theme=dark&hide_border=true&border_radius=1.5&ring=0366D6&background=134%2C0D1117%2C0D1117&border=000000&stroke=000000&fire=0366D6&currStreakNum=0366D6&currStreakLabel=0366D6&excludeDaysLabel=EB5454"/>
 </p>
 
+<br />
+
 ## 💻Technologies I've Worked With 🔧
+
+<br />
 
 <p align="center" >
   <a href="https://skillicons.dev">
@@ -37,7 +51,11 @@ I'm a Frontend Developer, specializing in `React.js` with a strong focus on comp
   </a>
 </p>
 
+<br />
+
 <h2>📈 Github stats & languages </h2>
+
+<br />
 
 <!-- [![Isat's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaT10&hide=contribs,prs&bg_color=000000&hide_border=true&title_color=00BABA&text_color=ffffff&&show_icons=true&icon_color=00BABA)](https://github.com/IsaT10) -->
 
