@@ -38,8 +38,8 @@ I am a Frontend Developer from Bangladesh 🎉🎉🎉. I specialize in `React.j
 <!-- <img width='45%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaT10&layout=compact&&bg_color=0D1117&hide_border=false&title_color=00BABA&text_color=ffffff"/> -->
 <!-- <img width='45%' src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IsaT10&theme=github_dark&exclude=javascript, css, html, scss"/> -->
 <p align="center">
-<img width='45%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaT10&layout=compact&&bg_color=0D1117&hide_border=false&title_color=00BABA&text_color=ffffff&border_color=2E343B"/>
-<img width='45%' src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IsaT10&theme=github_dark&title_color=00BABA"/>
+<img width='45%' height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaT10&layout=compact&&bg_color=0D1117&hide_border=false&title_color=00BABA&text_color=ffffff&border_color=2E343B"/>
+<img width='45%' height="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IsaT10&theme=github_dark&title_color=00BABA"/>
 </p>
 <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IsaT10&theme=transparent"/> -->
 
