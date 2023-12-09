@@ -31,8 +31,8 @@ I am a Frontend Developer from Bangladesh 🎉🎉🎉. I specialize in `React.j
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaT10&layout=compact&&bg_color=000000&hide_border=true&title_color=00BABA&text_color=ffffff)](https://github.com/IsaT10) -->
 
-<img width='50%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaT10&layout=compact&&bg_color=000000&hide_border=true&title_color=00BABA&text_color=ffffff"/>
-<img width='50%' src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IsaT10&theme=transparent"/>
+<img width='45%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaT10&layout=compact&&bg_color=0D1117&hide_border=true&title_color=00BABA&text_color=ffffff"/>
+<img width='45%' src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IsaT10&theme=github_dark"/>
 <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IsaT10&theme=transparent"/> -->
 
 <!-- [![Isat's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaT10&show_icons=true&hide=contribs&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=000000&hide_border=true&show_icons=true)](https://github.com/IsaT10) -->
@@ -52,7 +52,7 @@ I am a Frontend Developer from Bangladesh 🎉🎉🎉. I specialize in `React.j
 </p>
 
 <img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IsaT10&theme=github_dark"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IsaT10&theme={github_dark}"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IsaT10&theme=github_dark"/>
 
 <br />
 
