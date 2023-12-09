@@ -4,7 +4,7 @@
 
 <img src="https://github.com/IsaT10/IsaT10/blob/main/background.png" >
 
-I'm a Frontend Developer based in Bangladesh 🎉, specializing in `React.js` with a strong focus on intricacies of frontend development. Additionally, I have mid-level proficiency in `Node.js`, `Express`, and `MonogoDB`, enabling me to create applications that seamlessly blend user-friendly interfaces with robust backend functionality. My goal is to develop scalable and maintainable solutions, emphasizing the harmonious balance between design and functionality.
+I'm a Frontend Developer, specializing in `React.js` with a strong focus on complicated of frontend development. Additionally, I have mid-level proficiency in `Node.js`, `Express`, and `MonogoDB`, enabling me to create applications that seamlessly blend user-friendly interfaces with robust backend functionality. My goal is to develop scalable and maintainable solutions, emphasizing the harmonious balance between design and functionality.
 
 <h2>📌 Find me on social sites </h2>
 
