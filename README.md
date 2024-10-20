@@ -4,11 +4,11 @@
 
 <img src="https://github.com/IsaT10/IsaT10/blob/main/background.png" >
 
-I'm a Frontend Developer, specializing in `React.js` with a strong focus on complicated of frontend development. Additionally, I have mid-level proficiency in `Node.js`, `Express`, and `MonogoDB`, enabling me to create applications that seamlessly blend user-friendly interfaces with robust backend functionality. My goal is to develop scalable and maintainable solutions, emphasizing the harmonious balance between design and functionality.
+I'm a Frontend Developer, specializing in `React.js` with a strong focus on complicated of frontend development. Additionally, I have proficiency in `Nextjs` ,`TypeScript`, `Redux`, `Node.js`, `Express`, `MonogoDB`, and `Mongoose` enabling me to create applications that seamlessly blend user-friendly interfaces with robust backend functionality. My goal is to develop scalable and maintainable solutions, emphasizing the harmonious balance between design and functionality.
 
 <h2>📌 Find me on social sites </h2>
 
-📙 [LINKEDIN](https://www.linkedin.com/in/rakibuddinisat/)
+📙 [LINKEDIN](https://www.linkedin.com/in/rakibuddin-dev/)
 📙 [INSTAGRAM](https://www.instagram.com/i_s_a_t_/)
 
 <br />
@@ -41,13 +41,13 @@ I'm a Frontend Developer, specializing in `React.js` with a strong focus on comp
 
 <p align="center" >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,redux,ts" />
   </a>
 </p>
 
 <p align="center" >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,mongodb,express,vscode" />
+    <img src="https://skillicons.dev/icons?i=nodejs,mongodb,express,vscode,postman" />
   </a>
 </p>
 
