@@ -19,7 +19,7 @@ I'm a Frontend Developer, specializing in `React.js` with a strong focus on comp
 
 <br />
 
-<p>⚙️ I'm exploring - Next.js and MongoDB</p>
+<p>⚙️ I'm exploring - PostgreSQL and Prisma</p>
 <p>🔦 I'm looking - For colaborating on any unique projects</p>
 <p>👨‍💻 I'm trying - Develop my skill</p>
 
